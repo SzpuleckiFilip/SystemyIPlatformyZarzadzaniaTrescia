@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8fa1c5b1-2191-4e92-9f31-a63d57dde6e2/resourceGroups/ResourceGroup/providers/Microsoft.Web/sites/cdvLab1FS",
+    "appService.deploySubpath": "lab1\\publish"
+}
